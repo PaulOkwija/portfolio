@@ -3,3 +3,8 @@ logo: /images/Profile.jpg
 description: Set your heart ablaze, go beyond your limits.
 # show_downloads: true
 theme: jekyll-theme-minimal
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - main.md
