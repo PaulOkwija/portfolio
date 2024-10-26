@@ -6,7 +6,7 @@ title: Your Name
 # Your Name
 Email: [your-email@example.com](mailto:your-email@example.com)  
 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)  
-GitHub: [Your GitHub Profile](https://github.com/your-profile)  
+<!-- GitHub: [Your GitHub Profile](https://github.com/your-profile)   -->
 
 ---
 
